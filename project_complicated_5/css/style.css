@@ -1,0 +1,59 @@
+body {
+	background-color: #fcf7e4;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	text-align: justify;
+}
+
+h3 {
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+#note1, #note2, #note3, #note4, #note5  {
+	color: #b3102d;
+	font-size: 18px;
+	font-style: italic;
+}
+
+.fatty {
+	font-weight: bold;
+}
+
+.italics {
+	font-style: italic;
+}
+
+.underscore {
+	text-decoration: underline;
+}
+
+.strikethrough {
+	text-decoration: line-through;
+}
+
+#glava1 {
+	color: #f2a205;
+}
+
+#glava2 {
+	color: #55176d;
+}
+
+#glava3 {
+	color: #66b132;
+}
+
+#glava4 {
+	color: #013372;
+}
+
+#glava5 {
+	color: #89114e;
+}
+
+a {
+	text-decoration: none;
+	font-size: 18px;
+}

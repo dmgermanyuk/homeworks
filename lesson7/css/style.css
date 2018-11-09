@@ -138,10 +138,17 @@ button:focus {
 	width: 25%;
 	float: left;
 	margin-bottom: 40px;
+	object-fit: cover;
 }
 
 .buyers-block::after {
 	content: '';
 	display: table;
 	clear: both;
+}
+
+.byebl {
+	object-fit: cover;
+	height: 261px;
+	width: 261px;
 }

@@ -73,6 +73,7 @@ button:focus {
 	line-height: 27px;
 	padding: 22px 46px;
 	margin-right: 40px;
+	border: none;
 }
 
 .button-o {
